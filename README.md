@@ -1,12 +1,16 @@
-👋 Hello, I'm Eduardo Silva Escalante!
+**👋 Hello, I'm Eduardo Silva Escalante!**
 
 Welcome to my GitHub profile! I'm a passionate analyst with a keen interest in using data to uncover insights and solve real-world problems. 
 I'm always eager to learn new things and collaborate on exciting projects.
 
-🌟 About Me
-🎓 I hold a Master's degree in Analytics from Auckland University of Technology, where I graduated with First Class Honours.
+**🌟 About Me**
+
+🎓 I'm Civil Engineer by profession where I graduate back in Chile, and I hold a Master's degree in Analytics from Auckland University of Technology, where I graduated with First Class Honours.
+
 💼 I'm currently working on various data projects, including COVID-19 data analysis, economic forecasting and others.
+
 🌏 Originally from Chile, I've been residing in New Zealand for a couple of years and am fascinated by the country's natural beauty and culture.
+
 📊 My expertise lies in data analysis, data visualization, and statistical modeling. I enjoy transforming raw data into meaningful insights.
 
 **🔧 Skills & Tools**
